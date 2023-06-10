@@ -1,0 +1,114 @@
+{
+    "name": "UserInputSystem",
+    "maps": [
+        {
+            "name": "Input",
+            "id": "05e23714-d473-4e36-9ee4-986efcff7dfc",
+            "actions": [
+                {
+                    "name": "LookingRotation",
+                    "type": "Value",
+                    "id": "9f7216dd-22d1-4688-ab95-b6a972742499",
+                    "expectedControlType": "Vector2",
+                    "processors": "InvertVector2(invertX=false)",
+                    "interactions": "",
+                    "initialStateCheck": true
+                },
+                {
+                    "name": "Escape",
+                    "type": "Button",
+                    "id": "15668575-cc5a-4d1b-81d3-f5758f83bffc",
+                    "expectedControlType": "Button",
+                    "processors": "",
+                    "interactions": "",
+                    "initialStateCheck": false
+                },
+                {
+                    "name": "OpenChangeValue",
+                    "type": "Button",
+                    "id": "84c42e23-58f7-4fb7-b9c4-1620cb9d34cf",
+                    "expectedControlType": "Button",
+                    "processors": "",
+                    "interactions": "",
+                    "initialStateCheck": false
+                },
+                {
+                    "name": "ChangeTime_Down",
+                    "type": "Button",
+                    "id": "b063811d-099b-4093-951d-64124ac1030c",
+                    "expectedControlType": "Button",
+                    "processors": "",
+                    "interactions": "",
+                    "initialStateCheck": false
+                },
+                {
+                    "name": "ChangeTime_Up",
+                    "type": "Button",
+                    "id": "c5db002d-3cd2-405c-a707-3bebd0d5b53c",
+                    "expectedControlType": "Button",
+                    "processors": "",
+                    "interactions": "",
+                    "initialStateCheck": false
+                }
+            ],
+            "bindings": [
+                {
+                    "name": "",
+                    "id": "2ad2b8ff-cd89-432e-871a-e6e318df11f0",
+                    "path": "<Pointer>/delta",
+                    "interactions": "",
+                    "processors": "ScaleVector2(x=0.05,y=0.05)",
+                    "groups": "",
+                    "action": "LookingRotation",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "",
+                    "id": "15ac3c99-55e7-4944-bbe2-7273506e60d3",
+                    "path": "<Keyboard>/escape",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "Escape",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "",
+                    "id": "862b6eda-27f7-4a70-97cd-26edd0f015a2",
+                    "path": "<Keyboard>/tab",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "OpenChangeValue",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "",
+                    "id": "6d62396e-4518-425f-b23e-bcc3e39f190a",
+                    "path": "<Keyboard>/leftArrow",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "ChangeTime_Down",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "",
+                    "id": "5ad5a8f7-666b-4c2f-a8d5-20f0b3a3ac1c",
+                    "path": "<Keyboard>/rightArrow",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "ChangeTime_Up",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                }
+            ]
+        }
+    ],
+    "controlSchemes": []
+}
