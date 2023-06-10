@@ -1,4 +1,4 @@
-# Program: SUN_UNITY
+# Program: SUN SIMULATOR
 Program description: This program using for view the position of the Sun in specify datetime, latitude and longitude. Value of datetime, latitude and longitude has been received from User Input.
 Creator: NgocPHV
 Date Created: 09/06/2023
