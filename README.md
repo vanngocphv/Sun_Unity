@@ -19,7 +19,7 @@ Explain:
 
 ## Technologies
 Project is created with:
-* NugetPackage: CoordinateSharp [link](https://www.google.com](https://www.nuget.org/packages/CoordinateSharp/)
+* NugetPackage: CoordinateSharp [link](https://www.nuget.org/packages/CoordinateSharp/)
 * Unity Asset: Customizable Skybox [link](https://assetstore.unity.com/packages/2d/textures-materials/sky/customizable-skybox-174576)
 * Unity Editor Version: 2021.3.18f1
 
