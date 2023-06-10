@@ -84,7 +84,7 @@ For using this program in your local computer, this is Guide:
 * Step 3: Create a new project in Unity 3D URP <br />
 ![New Project](./Images/NewProject.png)
 
-* Step 4: Copy all file from extract file into this new Project, this is override some file in the project <br />
+* Step 4: Copy all file from extract file into this new Project, this is override some file in the project (Restart Unity if you already have it open) <br />
 ![Copy](./Images/Copy.png)
 ![Parse](./Images/Parse.png)
 ![Done](./Images/Done.png)
