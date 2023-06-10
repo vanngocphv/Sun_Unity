@@ -71,7 +71,7 @@ For using this program in your local computer, this is Guide:
 ![Build In](./Images/BuildIn.png)
 
 * Step 2: Clone this project or zip it into your compute, next extract it (you need to install Git LFS for Large file, some time it will breaking image because tracking of the .gitattributes file) <br />
-![Zip File](./Images/ZipFile.png)
+![Zip File](./Images/ZipFile.png) <br />
 ![Extract Zip file](./Images/Extract.png)
 
 * Step 3: Create a new project in Unity 3D URP <br />
