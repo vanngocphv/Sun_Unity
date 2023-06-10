@@ -1,8 +1,8 @@
 # Program: SUN SIMULATOR
-Program description: This program using for view the position of the Sun in specify datetime, latitude and longitude. Value of datetime, latitude and longitude has been received from User Input.
-Creator: NgocPHV
-Date Created: 09/06/2023
-Date Finished: 10/06/2023
+Program description: This program using for view the position of the Sun in specify datetime, latitude and longitude. Value of datetime, latitude and longitude has been received from User Input. <br />
+Creator: NgocPHV <br />
+Date Created: 09/06/2023 <br />
+Date Finished: 10/06/2023 <br />
 
 ## Index contents
 * [General info](#general-info)
