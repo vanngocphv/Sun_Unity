@@ -13,9 +13,14 @@ Date Finished: 10/06/2023
 ## General info
 From requirement:
 - This program involves taking user input and implementing the position of the sun based on the user's current location, date, and time
+- The pillar will be set with height same with human height (in this program, I set it has height is 2)
+- The light from Sun wil create a shadow behind the pillar
 Explain:
 - User can Input value for "Date", "Time", "Longitude", "Latitude"
 - The position of the sun should be implemented according to the user's input
+- The pillar has height = 2
+- The pillar can cast shadow
+- The Sun will is Direction Light (basic Sun object of Unity)
 
 ## Technologies
 Project is created with:
@@ -24,8 +29,9 @@ Project is created with:
 * Unity Editor Version: 2021.3.18f1
 
 ## Feature
+(*User can rotate around the pillar, and look up and down for check the position of Sun*)
 
-When open, this program will show with value:
+When open program, this program will show with value in left side:
 * Latitude: 0, Longitude: 0
 * Date: 10/03/2018, Time: 16:34 (4:34 PM)
 * Return value of Sun Altitude: 24.5 
