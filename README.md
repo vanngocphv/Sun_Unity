@@ -66,10 +66,23 @@ This Left, Right Arrow (←, →)  button when clicked, the time will increase 1
 ![Time up 1 hour](./Images/TimeUp1Hours.png)
 
 ## Setup
-For using this program in your local computer, this is Setup Guide:
+For using this program in your local computer, this is Guide:
 * Step 1: Check your editor, this program has been build in Unity Editor 2021.3.18f1
-* Step 2: Clone this project or zip it into your computer, next extract it
-* Step 3: Create a new project in Unity 3D URP with Unity Editor 2021.3.18f1
-* Step 4: Copy all file from extract file into this new Project
+![Build In](./Images/BuildIn.png)
+
+* Step 2: Clone this project or zip it into your compute, next extract it (you need to install Git LFS for Large file, some time it will breaking image because tracking of the .gitattributes file)
+![Zip File](./Images/ZipFile.png)
+
+* Step 3: Create a new project in Unity 3D URP
+![New Project](./Images/NewProject.png)
+![Extract Zip file](./Images/Extract.png)
+
+* Step 4: Copy all file from extract file into this new Project, this is override some file in the project
+![Copy](./Images/Copy.png)
+![Parse](./Images/Parse.png)
+![Done](./Images/Done.png)
+
 * Step 5: Open Scene "MainScene"
+![Choice Main Scene](./Images/ChoiceMainScene.png)
+
 * Step 6: Run.
