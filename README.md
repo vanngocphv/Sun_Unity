@@ -67,22 +67,22 @@ This Left, Right Arrow (←, →)  button when clicked, the time will increase 1
 
 ## Setup
 For using this program in your local computer, this is Guide:
-* Step 1: Check your editor, this program has been build in Unity Editor 2021.3.18f1
+* Step 1: Check your editor, this program has been build in Unity Editor 2021.3.18f1 <br />
 ![Build In](./Images/BuildIn.png)
 
-* Step 2: Clone this project or zip it into your compute, next extract it (you need to install Git LFS for Large file, some time it will breaking image because tracking of the .gitattributes file)
+* Step 2: Clone this project or zip it into your compute, next extract it (you need to install Git LFS for Large file, some time it will breaking image because tracking of the .gitattributes file) <br />
 ![Zip File](./Images/ZipFile.png)
 ![Extract Zip file](./Images/Extract.png)
 
-* Step 3: Create a new project in Unity 3D URP
+* Step 3: Create a new project in Unity 3D URP <br />
 ![New Project](./Images/NewProject.png)
 
-* Step 4: Copy all file from extract file into this new Project, this is override some file in the project
+* Step 4: Copy all file from extract file into this new Project, this is override some file in the project <br />
 ![Copy](./Images/Copy.png)
 ![Parse](./Images/Parse.png)
 ![Done](./Images/Done.png)
 
-* Step 5: Open Scene "MainScene"
+* Step 5: Open Scene "MainScene" <br />
 ![Choice Main Scene](./Images/ChoiceMainScene.png)
 
-* Step 6: Run.
+* Step 6: Run. <br />
