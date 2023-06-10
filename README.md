@@ -62,7 +62,7 @@ This Left, Right Arrow (←, →)  button when clicked, the time will increase 1
 * When click Left Arrow button (←)
 ![Time down 1 hour](./Images/TimeDown1Hours.png)
 
-*When click Right Arrow button (→)
+* When click Right Arrow button (→)
 ![Time up 1 hour](./Images/TimeUp1Hours.png)
 
 
